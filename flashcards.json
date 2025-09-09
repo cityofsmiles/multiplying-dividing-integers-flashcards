@@ -1,0 +1,802 @@
+[
+  {
+    "question": "6 \u00d7 5",
+    "answer": "30"
+  },
+  {
+    "question": "(-11) \u00d7 (-1)",
+    "answer": "11"
+  },
+  {
+    "question": "(-9) \u00d7 (-4)",
+    "answer": "36"
+  },
+  {
+    "question": "(-1) \u00d7 (-2)",
+    "answer": "2"
+  },
+  {
+    "question": "(-3) \u00d7 (-6)",
+    "answer": "18"
+  },
+  {
+    "question": "(-8) \u00d7 (-5)",
+    "answer": "40"
+  },
+  {
+    "question": "(-6) \u00d7 (-8)",
+    "answer": "48"
+  },
+  {
+    "question": "(-2) \u00d7 (-14)",
+    "answer": "28"
+  },
+  {
+    "question": "1 \u00d7 12",
+    "answer": "12"
+  },
+  {
+    "question": "(-11) \u00d7 (-13)",
+    "answer": "143"
+  },
+  {
+    "question": "(-9) \u00d7 (-13)",
+    "answer": "117"
+  },
+  {
+    "question": "(-5) \u00d7 (-4)",
+    "answer": "20"
+  },
+  {
+    "question": "10 \u00d7 13",
+    "answer": "130"
+  },
+  {
+    "question": "(-4) \u00d7 (-6)",
+    "answer": "24"
+  },
+  {
+    "question": "5 \u00d7 4",
+    "answer": "20"
+  },
+  {
+    "question": "(-8) \u00d7 (-9)",
+    "answer": "72"
+  },
+  {
+    "question": "(-11) \u00d7 (-14)",
+    "answer": "154"
+  },
+  {
+    "question": "(-8) \u00d7 (-1)",
+    "answer": "8"
+  },
+  {
+    "question": "11 \u00d7 13",
+    "answer": "143"
+  },
+  {
+    "question": "11 \u00d7 5",
+    "answer": "55"
+  },
+  {
+    "question": "(-1) \u00d7 (-7)",
+    "answer": "7"
+  },
+  {
+    "question": "(-6) \u00d7 (-8)",
+    "answer": "48"
+  },
+  {
+    "question": "6 \u00d7 6",
+    "answer": "36"
+  },
+  {
+    "question": "1 \u00d7 8",
+    "answer": "8"
+  },
+  {
+    "question": "(-6) \u00d7 (-10)",
+    "answer": "60"
+  },
+  {
+    "question": "(-3) \u00d7 (-1)",
+    "answer": "3"
+  },
+  {
+    "question": "(-9) \u00d7 (-13)",
+    "answer": "117"
+  },
+  {
+    "question": "13 \u00d7 6",
+    "answer": "78"
+  },
+  {
+    "question": "(-1) \u00d7 (-13)",
+    "answer": "13"
+  },
+  {
+    "question": "(-7) \u00d7 (-3)",
+    "answer": "21"
+  },
+  {
+    "question": "(-3) \u00d7 (-12)",
+    "answer": "36"
+  },
+  {
+    "question": "(-5) \u00d7 (-9)",
+    "answer": "45"
+  },
+  {
+    "question": "(-14) \u00d7 (-13)",
+    "answer": "182"
+  },
+  {
+    "question": "(-3) \u00d7 (-11)",
+    "answer": "33"
+  },
+  {
+    "question": "10 \u00d7 7",
+    "answer": "70"
+  },
+  {
+    "question": "7 \u00d7 11",
+    "answer": "77"
+  },
+  {
+    "question": "15 \u00d7 10",
+    "answer": "150"
+  },
+  {
+    "question": "1 \u00d7 15",
+    "answer": "15"
+  },
+  {
+    "question": "10 \u00d7 11",
+    "answer": "110"
+  },
+  {
+    "question": "6 \u00d7 3",
+    "answer": "18"
+  },
+  {
+    "question": "(-2) \u00d7 (-12)",
+    "answer": "24"
+  },
+  {
+    "question": "1 \u00d7 13",
+    "answer": "13"
+  },
+  {
+    "question": "(-11) \u00d7 (-6)",
+    "answer": "66"
+  },
+  {
+    "question": "(-9) \u00d7 (-9)",
+    "answer": "81"
+  },
+  {
+    "question": "7 \u00d7 1",
+    "answer": "7"
+  },
+  {
+    "question": "(-12) \u00d7 (-12)",
+    "answer": "144"
+  },
+  {
+    "question": "(-2) \u00d7 (-13)",
+    "answer": "26"
+  },
+  {
+    "question": "4 \u00d7 12",
+    "answer": "48"
+  },
+  {
+    "question": "15 \u00d7 7",
+    "answer": "105"
+  },
+  {
+    "question": "(-10) \u00d7 (-11)",
+    "answer": "110"
+  },
+  {
+    "question": "(-2) \u00d7 4",
+    "answer": "-8"
+  },
+  {
+    "question": "(-6) \u00d7 4",
+    "answer": "-24"
+  },
+  {
+    "question": "4 \u00d7 (-8)",
+    "answer": "-32"
+  },
+  {
+    "question": "4 \u00d7 (-14)",
+    "answer": "-56"
+  },
+  {
+    "question": "1 \u00d7 (-10)",
+    "answer": "-10"
+  },
+  {
+    "question": "(-6) \u00d7 3",
+    "answer": "-18"
+  },
+  {
+    "question": "7 \u00d7 (-10)",
+    "answer": "-70"
+  },
+  {
+    "question": "(-11) \u00d7 14",
+    "answer": "-154"
+  },
+  {
+    "question": "(-15) \u00d7 4",
+    "answer": "-60"
+  },
+  {
+    "question": "(-7) \u00d7 15",
+    "answer": "-105"
+  },
+  {
+    "question": "(-3) \u00d7 3",
+    "answer": "-9"
+  },
+  {
+    "question": "(-7) \u00d7 8",
+    "answer": "-56"
+  },
+  {
+    "question": "7 \u00d7 (-8)",
+    "answer": "-56"
+  },
+  {
+    "question": "10 \u00d7 (-1)",
+    "answer": "-10"
+  },
+  {
+    "question": "(-3) \u00d7 8",
+    "answer": "-24"
+  },
+  {
+    "question": "10 \u00d7 (-6)",
+    "answer": "-60"
+  },
+  {
+    "question": "4 \u00d7 (-12)",
+    "answer": "-48"
+  },
+  {
+    "question": "11 \u00d7 (-4)",
+    "answer": "-44"
+  },
+  {
+    "question": "7 \u00d7 (-9)",
+    "answer": "-63"
+  },
+  {
+    "question": "2 \u00d7 (-15)",
+    "answer": "-30"
+  },
+  {
+    "question": "3 \u00d7 (-8)",
+    "answer": "-24"
+  },
+  {
+    "question": "1 \u00d7 (-1)",
+    "answer": "-1"
+  },
+  {
+    "question": "12 \u00d7 (-2)",
+    "answer": "-24"
+  },
+  {
+    "question": "2 \u00d7 (-4)",
+    "answer": "-8"
+  },
+  {
+    "question": "12 \u00d7 (-10)",
+    "answer": "-120"
+  },
+  {
+    "question": "(-12) \u00d7 11",
+    "answer": "-132"
+  },
+  {
+    "question": "(-8) \u00d7 5",
+    "answer": "-40"
+  },
+  {
+    "question": "4 \u00d7 (-4)",
+    "answer": "-16"
+  },
+  {
+    "question": "7 \u00d7 (-7)",
+    "answer": "-49"
+  },
+  {
+    "question": "10 \u00d7 (-1)",
+    "answer": "-10"
+  },
+  {
+    "question": "(-9) \u00d7 6",
+    "answer": "-54"
+  },
+  {
+    "question": "12 \u00d7 (-4)",
+    "answer": "-48"
+  },
+  {
+    "question": "12 \u00d7 (-8)",
+    "answer": "-96"
+  },
+  {
+    "question": "4 \u00d7 (-9)",
+    "answer": "-36"
+  },
+  {
+    "question": "15 \u00d7 (-1)",
+    "answer": "-15"
+  },
+  {
+    "question": "15 \u00d7 (-11)",
+    "answer": "-165"
+  },
+  {
+    "question": "(-6) \u00d7 7",
+    "answer": "-42"
+  },
+  {
+    "question": "(-6) \u00d7 10",
+    "answer": "-60"
+  },
+  {
+    "question": "5 \u00d7 (-11)",
+    "answer": "-55"
+  },
+  {
+    "question": "(-9) \u00d7 1",
+    "answer": "-9"
+  },
+  {
+    "question": "2 \u00d7 (-1)",
+    "answer": "-2"
+  },
+  {
+    "question": "(-4) \u00d7 11",
+    "answer": "-44"
+  },
+  {
+    "question": "(-6) \u00d7 9",
+    "answer": "-54"
+  },
+  {
+    "question": "10 \u00d7 (-10)",
+    "answer": "-100"
+  },
+  {
+    "question": "(-9) \u00d7 12",
+    "answer": "-108"
+  },
+  {
+    "question": "(-10) \u00d7 12",
+    "answer": "-120"
+  },
+  {
+    "question": "(-6) \u00d7 7",
+    "answer": "-42"
+  },
+  {
+    "question": "(-8) \u00d7 12",
+    "answer": "-96"
+  },
+  {
+    "question": "8 \u00d7 (-9)",
+    "answer": "-72"
+  },
+  {
+    "question": "(-9) \u00d7 6",
+    "answer": "-54"
+  },
+  {
+    "question": "21 \u00f7 3",
+    "answer": "7"
+  },
+  {
+    "question": "96 \u00f7 8",
+    "answer": "12"
+  },
+  {
+    "question": "(-14) \u00f7 (-14)",
+    "answer": "1"
+  },
+  {
+    "question": "72 \u00f7 9",
+    "answer": "8"
+  },
+  {
+    "question": "150 \u00f7 15",
+    "answer": "10"
+  },
+  {
+    "question": "(-14) \u00f7 (-14)",
+    "answer": "1"
+  },
+  {
+    "question": "36 \u00f7 4",
+    "answer": "9"
+  },
+  {
+    "question": "210 \u00f7 15",
+    "answer": "14"
+  },
+  {
+    "question": "(-25) \u00f7 (-5)",
+    "answer": "5"
+  },
+  {
+    "question": "(-48) \u00f7 (-4)",
+    "answer": "12"
+  },
+  {
+    "question": "13 \u00f7 1",
+    "answer": "13"
+  },
+  {
+    "question": "56 \u00f7 14",
+    "answer": "4"
+  },
+  {
+    "question": "(-84) \u00f7 (-14)",
+    "answer": "6"
+  },
+  {
+    "question": "(-24) \u00f7 (-12)",
+    "answer": "2"
+  },
+  {
+    "question": "27 \u00f7 9",
+    "answer": "3"
+  },
+  {
+    "question": "(-140) \u00f7 (-10)",
+    "answer": "14"
+  },
+  {
+    "question": "16 \u00f7 4",
+    "answer": "4"
+  },
+  {
+    "question": "117 \u00f7 13",
+    "answer": "9"
+  },
+  {
+    "question": "16 \u00f7 4",
+    "answer": "4"
+  },
+  {
+    "question": "130 \u00f7 10",
+    "answer": "13"
+  },
+  {
+    "question": "49 \u00f7 7",
+    "answer": "7"
+  },
+  {
+    "question": "168 \u00f7 12",
+    "answer": "14"
+  },
+  {
+    "question": "81 \u00f7 9",
+    "answer": "9"
+  },
+  {
+    "question": "24 \u00f7 8",
+    "answer": "3"
+  },
+  {
+    "question": "(-15) \u00f7 (-5)",
+    "answer": "3"
+  },
+  {
+    "question": "(-156) \u00f7 (-13)",
+    "answer": "12"
+  },
+  {
+    "question": "40 \u00f7 4",
+    "answer": "10"
+  },
+  {
+    "question": "60 \u00f7 15",
+    "answer": "4"
+  },
+  {
+    "question": "45 \u00f7 3",
+    "answer": "15"
+  },
+  {
+    "question": "70 \u00f7 7",
+    "answer": "10"
+  },
+  {
+    "question": "(-42) \u00f7 (-7)",
+    "answer": "6"
+  },
+  {
+    "question": "210 \u00f7 14",
+    "answer": "15"
+  },
+  {
+    "question": "(-20) \u00f7 (-10)",
+    "answer": "2"
+  },
+  {
+    "question": "(-14) \u00f7 (-14)",
+    "answer": "1"
+  },
+  {
+    "question": "66 \u00f7 11",
+    "answer": "6"
+  },
+  {
+    "question": "14 \u00f7 1",
+    "answer": "14"
+  },
+  {
+    "question": "(-24) \u00f7 (-2)",
+    "answer": "12"
+  },
+  {
+    "question": "(-8) \u00f7 (-8)",
+    "answer": "1"
+  },
+  {
+    "question": "120 \u00f7 12",
+    "answer": "10"
+  },
+  {
+    "question": "(-140) \u00f7 (-10)",
+    "answer": "14"
+  },
+  {
+    "question": "(-49) \u00f7 (-7)",
+    "answer": "7"
+  },
+  {
+    "question": "(-8) \u00f7 (-8)",
+    "answer": "1"
+  },
+  {
+    "question": "(-22) \u00f7 (-2)",
+    "answer": "11"
+  },
+  {
+    "question": "(-9) \u00f7 (-3)",
+    "answer": "3"
+  },
+  {
+    "question": "(-99) \u00f7 (-11)",
+    "answer": "9"
+  },
+  {
+    "question": "(-65) \u00f7 (-13)",
+    "answer": "5"
+  },
+  {
+    "question": "55 \u00f7 11",
+    "answer": "5"
+  },
+  {
+    "question": "(-48) \u00f7 (-12)",
+    "answer": "4"
+  },
+  {
+    "question": "(-66) \u00f7 (-11)",
+    "answer": "6"
+  },
+  {
+    "question": "36 \u00f7 4",
+    "answer": "9"
+  },
+  {
+    "question": "(-70) \u00f7 5",
+    "answer": "-14"
+  },
+  {
+    "question": "(-9) \u00f7 9",
+    "answer": "-1"
+  },
+  {
+    "question": "65 \u00f7 (-5)",
+    "answer": "-13"
+  },
+  {
+    "question": "(-112) \u00f7 8",
+    "answer": "-14"
+  },
+  {
+    "question": "80 \u00f7 (-8)",
+    "answer": "-10"
+  },
+  {
+    "question": "(-11) \u00f7 11",
+    "answer": "-1"
+  },
+  {
+    "question": "(-98) \u00f7 14",
+    "answer": "-7"
+  },
+  {
+    "question": "40 \u00f7 (-8)",
+    "answer": "-5"
+  },
+  {
+    "question": "(-36) \u00f7 6",
+    "answer": "-6"
+  },
+  {
+    "question": "12 \u00f7 (-2)",
+    "answer": "-6"
+  },
+  {
+    "question": "(-40) \u00f7 4",
+    "answer": "-10"
+  },
+  {
+    "question": "36 \u00f7 (-9)",
+    "answer": "-4"
+  },
+  {
+    "question": "45 \u00f7 (-9)",
+    "answer": "-5"
+  },
+  {
+    "question": "117 \u00f7 (-13)",
+    "answer": "-9"
+  },
+  {
+    "question": "35 \u00f7 (-5)",
+    "answer": "-7"
+  },
+  {
+    "question": "(-84) \u00f7 6",
+    "answer": "-14"
+  },
+  {
+    "question": "(-90) \u00f7 10",
+    "answer": "-9"
+  },
+  {
+    "question": "(-72) \u00f7 8",
+    "answer": "-9"
+  },
+  {
+    "question": "20 \u00f7 (-2)",
+    "answer": "-10"
+  },
+  {
+    "question": "72 \u00f7 (-8)",
+    "answer": "-9"
+  },
+  {
+    "question": "(-4) \u00f7 1",
+    "answer": "-4"
+  },
+  {
+    "question": "27 \u00f7 (-9)",
+    "answer": "-3"
+  },
+  {
+    "question": "9 \u00f7 (-3)",
+    "answer": "-3"
+  },
+  {
+    "question": "10 \u00f7 (-10)",
+    "answer": "-1"
+  },
+  {
+    "question": "(-36) \u00f7 4",
+    "answer": "-9"
+  },
+  {
+    "question": "(-195) \u00f7 15",
+    "answer": "-13"
+  },
+  {
+    "question": "(-48) \u00f7 6",
+    "answer": "-8"
+  },
+  {
+    "question": "60 \u00f7 (-6)",
+    "answer": "-10"
+  },
+  {
+    "question": "39 \u00f7 (-13)",
+    "answer": "-3"
+  },
+  {
+    "question": "88 \u00f7 (-8)",
+    "answer": "-11"
+  },
+  {
+    "question": "(-20) \u00f7 5",
+    "answer": "-4"
+  },
+  {
+    "question": "105 \u00f7 (-15)",
+    "answer": "-7"
+  },
+  {
+    "question": "22 \u00f7 (-2)",
+    "answer": "-11"
+  },
+  {
+    "question": "30 \u00f7 (-6)",
+    "answer": "-5"
+  },
+  {
+    "question": "(-56) \u00f7 8",
+    "answer": "-7"
+  },
+  {
+    "question": "24 \u00f7 (-2)",
+    "answer": "-12"
+  },
+  {
+    "question": "(-66) \u00f7 11",
+    "answer": "-6"
+  },
+  {
+    "question": "(-32) \u00f7 8",
+    "answer": "-4"
+  },
+  {
+    "question": "28 \u00f7 (-7)",
+    "answer": "-4"
+  },
+  {
+    "question": "72 \u00f7 (-6)",
+    "answer": "-12"
+  },
+  {
+    "question": "(-121) \u00f7 11",
+    "answer": "-11"
+  },
+  {
+    "question": "(-60) \u00f7 4",
+    "answer": "-15"
+  },
+  {
+    "question": "130 \u00f7 (-13)",
+    "answer": "-10"
+  },
+  {
+    "question": "16 \u00f7 (-8)",
+    "answer": "-2"
+  },
+  {
+    "question": "(-11) \u00f7 11",
+    "answer": "-1"
+  },
+  {
+    "question": "91 \u00f7 (-7)",
+    "answer": "-13"
+  },
+  {
+    "question": "(-15) \u00f7 1",
+    "answer": "-15"
+  },
+  {
+    "question": "225 \u00f7 (-15)",
+    "answer": "-15"
+  },
+  {
+    "question": "(-22) \u00f7 11",
+    "answer": "-2"
+  },
+  {
+    "question": "36 \u00f7 (-6)",
+    "answer": "-6"
+  }
+]
